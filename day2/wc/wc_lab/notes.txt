@@ -1,0 +1,8 @@
+Linux is a powerful operating system.
+
+It is widely used for servers, development, and automation.
+Working with commands helps administrators be more efficient.
+
+Shell scripting improves productivity.
+
+End.

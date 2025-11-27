@@ -1,0 +1,30 @@
+[2024-11-01 10:00:01] INFO    Application starting...
+[2024-11-01 10:00:02] DEBUG   Loading modules...
+[2024-11-01 10:00:03] INFO    Module 'auth' loaded
+[2024-11-01 10:00:04] INFO    Module 'db' loaded
+[2024-11-01 10:00:05] WARNING Low disk space detected
+[2024-11-01 10:00:06] INFO    Background worker started
+[2024-11-01 10:00:07] DEBUG   Worker heartbeat
+[2024-11-01 10:00:08] DEBUG   Worker heartbeat
+[2024-11-01 10:00:09] INFO    Checking status...
+[2024-11-01 10:00:10] INFO    System OK
+[2024-11-01 10:00:11] ERROR   Failed to fetch data from API
+[2024-11-01 10:00:12] INFO    Retrying request...
+[2024-11-01 10:00:13] ERROR   Timeout occurred
+[2024-11-01 10:00:14] WARNING Slow response detected
+[2024-11-01 10:00:15] DEBUG   Cleaning cache...
+[2024-11-01 10:00:16] INFO    Cache cleaned
+[2024-11-01 10:00:17] DEBUG   Worker heartbeat
+[2024-11-01 10:00:18] DEBUG   Worker heartbeat
+[2024-11-01 10:00:19] DEBUG   Worker heartbeat
+[2024-11-01 10:00:20] INFO    Scheduled task completed
+[2024-11-01 10:00:21] INFO    User login: admin
+[2024-11-01 10:00:22] DEBUG   Session validated
+[2024-11-01 10:00:23] INFO    User login: student
+[2024-11-01 10:00:24] INFO    Processing request...
+[2024-11-01 10:00:25] ERROR   Database unreachable
+[2024-11-01 10:00:26] INFO    Retrying connection...
+[2024-11-01 10:00:27] ERROR   Database timeout
+[2024-11-01 10:00:28] WARNING High CPU usage detected
+[2024-11-01 10:00:29] DEBUG   Worker heartbeat
+[2024-11-01 10:00:30] DEBUG   Worker heartbeat
