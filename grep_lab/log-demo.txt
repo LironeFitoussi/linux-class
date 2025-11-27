@@ -1,0 +1,14 @@
+2024-11-01 10:15:22 INFO    Starting application...
+2024-11-01 10:15:23 WARNING Low memory detected
+2024-11-01 10:15:24 ERROR   Failed to load configuration file
+2024-11-01 10:15:24 ERROR   Connection timeout while contacting server
+2024-11-01 10:15:25 Info    User admin logged in via SSH
+2024-11-01 10:15:26 DEBUG   Checking SSH session parameters
+2024-11-01 10:15:27 WARNING Disk space at 92%
+2024-11-01 10:15:28 ERROR   Failed to connect to database
+2024-11-01 10:15:29 info    Background process started
+2024-11-01 10:15:30 FAILED  Scheduled backup failed due to timeout
+2024-11-01 10:15:31 ERROR   Unexpected shutdown
+2024-11-01 10:15:32 debug   SSH heartbeat OK
+2024-11-01 10:15:33 INFO    User 'student' logged in
+
